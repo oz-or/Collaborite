@@ -1,5 +1,5 @@
 {
-  "name": "jsm_live_docs",
+  "name": "ozor_farkas_collaborite",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -41,6 +41,7 @@
     "eslint": "^8",
     "eslint-config-next": "14.2.5",
     "postcss": "^8",
+    "strip-comments": "^2.0.1",
     "tailwindcss": "^3.4.1",
     "typescript": "^5"
   }
